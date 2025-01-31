@@ -1,0 +1,11 @@
+.nav-bar
+{
+    background: #000000;
+    padding: 1rem 2rem;
+    align-items: center;
+    box-shadow: 5px 5px 15px black;
+    text-align: center;
+    width: 100%;
+    
+
+}
